@@ -1,21 +1,5 @@
-How to use this workflow for an online game and  how to leverage that for testing environment. 
-Dev invironement github. Entire process of a game. 
-how would it work/resources used to get it done. 
-
-how you would go from step one to production using this meathod and what else might be important combining your 
-process and the CI informaytion system
-
-Starting with the initial Development, I would create a basic Pipeline after settling what the overall goal is for 
-
-
-Development
-QA Environment
-Staging
-Production
-
-
-
-
 Starting with the initial Development, I would create a basic Pipeline after settling what the overall goal is for the programming team. I would create the basic skeleton of the code, and would have the beginning of the master branch completed. This would require basic testing and I feel that the Heroku automated testing could come in handy just to double check work before promoting the completed works to the QA environment. 
-Shifting to the QA environment is the place where automated testing for the basic code will be checked. This assures that the master branch is as complete as it could possibly be, with the least amount of errors possible. This will give a cleaner template and will help to remove future issues, if later versions become corrupted. This is another part of development, but it is important before moving on to the staging. 
+Shifting to the QA environment, this is where automated testing for the basic code will be checked. This assures that the master branch is as complete as it could possibly be, with the least amount of errors possible. This will give a cleaner template and will help to remove future issues, if later versions become corrupted. This is another part of development, but it is important before moving on to the staging. Regression testing would be my biggest concern in this step.
 After QA is completed, I would want a period of review, to make sure that there are double checks on every section of the product. Automated testing cannot catch everything but I feel the human element and automated testing could complete the task together.  
+Using Heroku's Review apps, approval on all ends would be helpful moving from stage to production. as things are being adjusted, I want people involved to make sure its function is as close to perfect as reasonably possible.Once again using Heroku CI to test once more before finally pushing everything to production.
+I am a "measure twice cut once" kind of person. I believe we can only check so much, but what we can do should be doubled checked before ever submitting completed products. Do it right the first time, otherwise you do not send it off to the production phase. Of coruse there is not perfect code, but quality is always better than speed. You may take longer, but customers will always come back for the work given. 
