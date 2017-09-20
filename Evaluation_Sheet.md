@@ -2,108 +2,78 @@
 
 [Reviewer Name]: Breen Heath
 
-[Game Name]: Pinstripe Chapter 01
+[Game Name]: Pinstripe Chapter 01 Demo
 
 [Company Name]: AtmosGames
 
 [Publisher Name]: Newgrounds
 
-[Genre]:
+[Genre]: Adventure
 
-[Build No.]:
+[Build No.]: [Demo]
 
 [Time Tested]: 1h 22min
 
-[LOF(Level of Fun]:
+[LOF(Level of Fun]: 7/10
+Fun, however it can be rather frustrating from time to time. 
 
 
 ### What age range is this game is suitable for:
 
-3 – 6          6 – 9          9 – 12           12 – adult          adult
+12 – adult
 
 
 ### How many minutes did it take you to finish the game
 
-Under 10          10-20          21-40          41-60          61-90          Over 90 mins.
-
-If this was an abstract strategy game, would it be better if it had a theme?…Yes   No
-If this was a themed game, did you like the theme?…………………………..…..No   Yes
-If this was a themed game, does the theme fit the play (mechanisms)?………No   Yes
-Is there an unfair advantage depending on whether you move first or last?…..Yes   No
+61-90
 
 ### Rate these on a continuum; on scale of 1-10
 
-### Complexity:
-
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-very simple                     average                     very complex
-
 ### Game Instructions/Rules:
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-very simple                     average                     very complex
+1/10
+begining game rules and instructions were extremely unclear. Lack of obvious indicators for puzzle solutions.
 
 ### Luck vs. Skill:
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-pure luck                     half luck, half skill                     all skill
+7/10
+Some luck due to the controls being a bit difficult.
 
-### Uniqueness / Game Mechanics (How different was this game from other games?):
+### Controls:
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Not much different           –                    Very different
+4/10
+Controls are a bit chaotic, and cause the player to slip off of objects often. 
+This game has quite a bit of jumps in it, which is frustrating when small platforms are involved. 
+Inaccuracy, and response lag, needs to be adjusted.
 
-### Playing time (Was the game too short, too long or just right?):
+### Uniqueness / Game Mechanics:
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Too short                   Just right                    Too long
+5/10
+Unique idea, but mechanics are basic. Side scroller matched with Point and Click.
 
+### Playing time:
 
-### Appearance (How much did you like the graphics/illustrations?):
+5/10
+Could be shorter for an introductory chapter, though its a decently long playtime to get a handle on story.
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Did not like                       –                        Loved
+### Appearance:
 
-
-### Materials (How much did you like the materials and/or game pieces):
-
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Did not like                   Average                    Loved
-
-
+10/10
+Graphics are uniquely styled, and are professionally done. 
 
 ### Game Idea (Concept) or Theme:
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Boring or weak               OK                              Terrific
+7/10
+The dark theme has been used before, however the game itself looks more proffessional for it.
 
 
 ### Interest (How much did you like this game?):
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Hated it                   It was OK                    Loved it
+4/10
+Due to the lack of good player control, and indicators for puzzles, It became frustrating rather quickly.
 
 ### Repeat Play (How often will you play this game?):
 
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-never again               now & then                      a lot
+7/10
+More chapters help with repeate play, though once chapters are complete, its likely you will not discover anything more.
 
-### Interaction (How much did the game play cause you to interact with other players?):
-
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Never                    Only on my turn                All the time
-
-### Waiting time with nothing to do (How much waiting between your turns?):
-
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-Very little                   Normal amount                    Too much
-
-### Game Options:  Are there not enough options for what you can do on each turn, too many options (too many choices) or just the right amount?
-
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-not enough                     just right                     too many
-
-### Text size: Was the text on the board, cards or instructions too small or just right?
-
-0 – 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 – 10
-too small                     just right                     too big
