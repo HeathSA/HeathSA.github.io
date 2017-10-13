@@ -1,5 +1,6 @@
 
 # Test Plan for: (Fireball, V.1.95-1, [International Hobo LTD])
+# Ps2
 
 ## Summary Information
 ### Summary:
@@ -32,8 +33,9 @@
 ### Budgets:
 ## Time: 4 months
 
-### Testing (Requirements)
+### Testing
 ## Console: Ps2
+
 #### Progression:
 Version | Description 
 ------------ | ------------- 
@@ -44,11 +46,8 @@ Version | Description
 1.9 | Hub Display, Quests unlocked
 1.95 | Less Restrictive Puzzle Progression
 
-### Methods and Constraints (Test Methodology)
-#### Describe testing strategy/types of testing or any other methodology○Extent of Testing
-#### Full or partial testing and explanation○Constraints
-#### Describe any test condition constraints such as interfaces or data
-
+### Test Methodology:
+## Scrum/Agile
 
 ### Big Milestone Schedule
 
