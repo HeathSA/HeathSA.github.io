@@ -15,6 +15,7 @@
 ##### Squash Possible bugs, Shift Product to match Acceptance Criteria, Test Controls and Stability of the Game. 
 
 ### Acceptance Criteria:
+#### 85%
 ##### Game is Playable, Challenges can be completed, Objects can be unlocked, Game and scenes can load, Overlay and UI Function, Blocks respond to Player. 
 ####
 ### Plan
