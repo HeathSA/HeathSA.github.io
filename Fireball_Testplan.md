@@ -14,11 +14,17 @@
 ## Squash Possible bugs, Shift Product to match Acceptance Criteria, Test Controls and Stability of the Game. 
 
 ### Acceptance Criteria:
-## Game is Playable, Challenges can be completed, Objects can be unlocked, Game and scenes can load, Overlay and UI Function. 
+## Game is Playable, Challenges can be completed, Objects can be unlocked, Game and scenes can load, Overlay and UI Function, Blocks respond to Player. 
 ####
-## Plan
-### Test Description (Briefly describe what is being tested and any inputs needed for testing)
-### Test Team (Who is on the team and what is their role/assignment)
+### Plan
+### Test Description:
+## Controls Function, Ineractable Blocks Respond, Objects Can be Unlocked, Scenes Load, Overlay and UI Function. 
+
+### Test Team:
+## Max: Test Manager
+## Annie: Tester
+## James: Developer in Test
+
 ### Milestones (Testing Locations, events, test phases and dates of testing
 ### Budgets (Funds allocated to testing by task)
 ### Testing (Requirements)
