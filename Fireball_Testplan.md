@@ -4,15 +4,17 @@
 ## Summary Information
 ### Summary:
 ## Fireball is a budget game for PS2. The player controls a ball of fire, and traverses a landscape 
-made of blocks of different materials. As the player sets fire to these blocks, they grow hotter.
-the hotter the player gets, the higher they can jump.
+## made of blocks of different materials. As the player sets fire to these blocks, they grow hotter.
+## the hotter the player gets, the higher they can jump.
 
 ### Environment/User Community: 
 ## In-House, Blackbox Testing.
+
 ### Test Objectives:
 ## Squash Possible bugs, Shift Product to match Acceptance Criteria, Test Controls and Stability of the Game. 
-### Acceptance Criteria (Estimated number of defect or internal test acceptance criteria)
-### References (List any reference documents)
+
+### Acceptance Criteria:
+## Game is Playable, Challenges can be completed, Objects can be unlocked, Game and scenes can load, Overlay and UI Function. 
 ####
 ## Plan
 ### Test Description (Briefly describe what is being tested and any inputs needed for testing)
@@ -35,3 +37,19 @@ the hotter the player gets, the higher they can jump.
 #### Describe testing strategy/types of testing or any other methodology○Extent of Testing
 #### Full or partial testing and explanation○Constraints
 #### Describe any test condition constraints such as interfaces or data
+
+
+### Big Milestone Schedule
+
+Milestone | Dates | Assigned | Reviewed?
+------------ | ------------- | ------------- | -------------
+Test Load Scene Load | 9/14/17 | Max | Yes
+Avatar Controls | 9/18/2017 | James | Yes
+Temperature and Gravity | 8/5/2017 | Annie | In Progress
+Complex Avatar Control | 8/5/2017 | Annie | In Progress
+Execute Test Cases 1-8 | 8/10/17 | Max | No
+Chain Counter | 8/22/17 | James | No
+Block Response 01 | 9/24/17| James | No
+Block Response 02 | 9/28/17| James | No
+
+
