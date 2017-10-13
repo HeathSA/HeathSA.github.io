@@ -4,37 +4,37 @@
 
 ## Summary Information
 ### Summary:
-## Fireball is a budget game for PS2. The player controls a ball of fire, and traverses a landscape 
-## made of blocks of different materials. As the player sets fire to these blocks, they grow hotter.
-## the hotter the player gets, the higher they can jump.
+#### Fireball is a budget game for PS2. The player controls a ball of fire, and traverses a landscape 
+#### made of blocks of different materials. As the player sets fire to these blocks, they grow hotter.
+#### the hotter the player gets, the higher they can jump.
 
 ### Environment/User Community: 
-## In-House, Blackbox Testing.
+#### In-House, Blackbox Testing.
 
 ### Test Objectives:
-## Squash Possible bugs, Shift Product to match Acceptance Criteria, Test Controls and Stability of the Game. 
+##### Squash Possible bugs, Shift Product to match Acceptance Criteria, Test Controls and Stability of the Game. 
 
 ### Acceptance Criteria:
-## Game is Playable, Challenges can be completed, Objects can be unlocked, Game and scenes can load, Overlay and UI Function, Blocks respond to Player. 
+##### Game is Playable, Challenges can be completed, Objects can be unlocked, Game and scenes can load, Overlay and UI Function, Blocks respond to Player. 
 ####
 ### Plan
-### Test Description:
-## Controls Function, Ineractable Blocks Respond, Objects Can be Unlocked, Scenes Load, Overlay and UI Function. 
+#### Test Description:
+#### Controls Function, Ineractable Blocks Respond, Objects Can be Unlocked, Scenes Load, Overlay and UI Function. 
 
 ### Test Team:
-## Max: Test Manager
-## Annie: Tester
-## James: Developer in Test
+#### Max: Test Manager
+#### Annie: Tester
+#### James: Developer in Test
 
 ### Milestones:
-## Test Load Scene Load, Avatar Controls, Temperature and Gravity, Complex Avatar Control,Progress
-## Bug Squash, Chain Counter, Block Response 01, Block Response 02.
+#### Test Load Scene Load, Avatar Controls, Temperature and Gravity, Complex Avatar Control,Progress
+#### Bug Squash, Chain Counter, Block Response 01, Block Response 02.
 
 ### Budgets:
-## Time: 4 months
+#### Time: 4 months
 
 ### Testing
-## Console: Ps2
+#### Console: Ps2
 
 #### Progression:
 Version | Description 
@@ -47,7 +47,7 @@ Version | Description
 1.95 | Less Restrictive Puzzle Progression
 
 ### Test Methodology:
-## Scrum/Agile
+#### Scrum/Agile
 
 ### Big Milestone Schedule
 
