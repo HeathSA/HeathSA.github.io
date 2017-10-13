@@ -25,20 +25,25 @@
 ## Annie: Tester
 ## James: Developer in Test
 
-### Milestones (Testing Locations, events, test phases and dates of testing
-### Budgets (Funds allocated to testing by task)
+### Milestones:
+## Test Load Scene Load, Avatar Controls, Temperature and Gravity, Complex Avatar Control,Progress
+## Bug Squash, Chain Counter, Block Response 01, Block Response 02.
+
+### Budgets:
+## Time: 4 months
+
 ### Testing (Requirements)
-#### Resource requirements, equipment, software/hardware, tester with special skill set○Testing Materials/Test Tools
-#### Documentation you will use or produce or testing tools used○Test Training
-#### Personnel training, types of training/training staff- could include acceptance testing or playtesting
-####
-## Specifications and Evaluations
-### Requirement Specifications (Business Rules/Functions)
-#### List any business requirements (list) (Software/Game Functions)
-#### List any software requirements (list) (Test/Function Relationships)
-#### Match individual tests or test suites to requirements (this is usually a table)
-#### Beginning stages of developing your test suites○Test Progression
-#### Describe how progression is made from one test to another
+## Console: Ps2
+#### Progression:
+Version | Description 
+------------ | ------------- 
+1.0 | Core design incorporated from Concept version 1.
+1.5 | Changed references that read ‘Combos’ to saying ‘Chains’ (i.e. renamed ‘Combos’ to ‘Chains’).
+1.76 | Added Hell Difficulty
+1.8 | Language Select Screen, Pause State, Quit Overlay
+1.9 | Hub Display, Quests unlocked
+1.95 | Less Restrictive Puzzle Progression
+
 ### Methods and Constraints (Test Methodology)
 #### Describe testing strategy/types of testing or any other methodology○Extent of Testing
 #### Full or partial testing and explanation○Constraints
@@ -53,7 +58,7 @@ Test Load Scene Load | 9/14/17 | Max | Yes
 Avatar Controls | 9/18/2017 | James | Yes
 Temperature and Gravity | 8/5/2017 | Annie | In Progress
 Complex Avatar Control | 8/5/2017 | Annie | In Progress
-Execute Test Cases 1-8 | 8/10/17 | Max | No
+Bug Squash | 8/10/17 | Max | No
 Chain Counter | 8/22/17 | James | No
 Block Response 01 | 9/24/17| James | No
 Block Response 02 | 9/28/17| James | No
