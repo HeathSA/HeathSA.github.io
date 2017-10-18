@@ -7,7 +7,7 @@
 * Test Case Name:
   * Save Game
 * Component: 
-  * Start
+  * Save Functionality
 * Test Case Designer:
   * Breen Heath
 * Creation Date:
@@ -17,20 +17,21 @@
 * Modified Date:
   * 10/17/17
 * Requirements Covered:
-  All Start-up functionality is completed.
+  All Save Game functionality is completed.
 * Test Description/Purpose:
-  Game Starts, all functionality is successful
+  Game Saves settings, all functionality is successful
 * Pre-Test Conditions:
   Game Start
+  New Game
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Game is Turned on, Should start | Game Enine Start-up | √ |			
-| 2 | Write to main game buffer | Nothing overwritten |  |			
-| 3 | Initialize Drivers | Set up all drivers on set-up | √ |			
-| 4 | Handle User Input | Keystrokes and Mouse clicks respond | √ |			
-| 5 | Will initialize connection to database if build mode is picked | User play online functions | √ |			
-| 6 | Write the bugger to the screen | Set appropriate Images to screen | √ |			
+| 1 | Only works in Story Mode | Cannot be saved in build mode | √ |			
+| 2 | File name must be valid | Check for valid characters |  |			
+| 3 | Existing File Ovewritten | Overwrite precious file with same name | √ |			
+| 4 | Create new file | Create file to write to | √ |			
+| 5 | File Saved in specific format | Load Correctly saved formatted file | √ |			
+	
 		
 
 ## Overall Test Status:
