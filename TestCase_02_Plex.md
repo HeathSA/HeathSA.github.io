@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * 01
+  * 02
 * Test Case Name:
   * New Game
 * Component: 
