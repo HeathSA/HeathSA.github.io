@@ -1,8 +1,8 @@
 # Information
 ## Game Title
-Cubito Mayhem
+Till The Next Floor
 ## Game Type
-Action, Shooter, Multidirectional. 
+Retro, Clicker, Upgrades, dle, Strategy
 ## Platform
 PC Master Race
 ## Game Rating
@@ -10,33 +10,27 @@ Website Score: 4/5 Stars 95%
 ## Publisher
 NewGrounds
 ## Developer
-Heizhu Games
+Grevicor
 ## Publishing Date
-October 6th, 2017
+Oct 3, 2017
+
 # Synopsis
-Ｃｕｂｉｔｏ is a twin-stick arena shooter focused on bullet blocking mechanics.
+Start your own idle adventure! Complete quests, work, train and explore the mysterious dungeon.
 
 # Game Play Summary
 ## Playability
-Game is fast paced, Requires more notification to the player health. 
-Particles are too constant to properly see player.
-Enemies spawn quickly, leaving little room for mistakes. 
-Challenging, meant for more skilled players rather than casual. 
+Game is Slow, Player does not have control of their character when in battle.
+UI is simple and easy to use. 
+Game is Randomized on how many levels you can continue on in the dungeon.
+Challenging and dealing with exchanging out armors and gear to go on futher into the dungeon.
 
 ### Single/Multiplayer
 Single Player
 ### Controls
-####Controls are Fully Customizable
-W A S D or Arrow keys to move.
-- HOLD Lshift or Rshift to Sprint
-- Mouse for Aim
-- Left click to shoot
-- Esc or P to pause and options menu
-Controls are uncomfortable and difficult when it comes to sprinting.
+Point and Click.
 
 
 # Bugs
 No Bugs to be discovered. 
 # Final Thoughts
-Game is well designed, with sound coding and development. Artwork and effects match well. Game is easy to understand, 
-though controls require more work. 
+Game is well designed, with sound coding. Artwork is well done. Game balence is excellent. Choosing between skills and armors adds an element of strategy, though you do not fight yourself. More gold is gained as the game progresses. All around addicting game with good mechanics. 
