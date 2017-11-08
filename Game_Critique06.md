@@ -10,7 +10,7 @@ Website Score: 4/5 Stars 95%
 ## Publisher
 Newgrounds
 ## Developer
-Cube Brothers
+96 Brothers
 ## Publishing Date
 April 19, 2017
 # Synopsis
